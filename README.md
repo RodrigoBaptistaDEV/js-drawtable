@@ -12,7 +12,7 @@ O código JavaScript da aplicação utiliza eventos do mouse para detectar quand
 
 ## Demonstração
 
-https://rodrigobaptistadev.github.io/pagina-tributo/
+https://rodrigobaptistadev.github.io/js-drawtable/
 
 ## Screenshots
 ![landingpagestar](https://user-images.githubusercontent.com/100215559/222505552-9f057020-c774-4417-984f-879f34d01893.gif)
